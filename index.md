@@ -1,7 +1,7 @@
 # Max's First CS193 Homework
 
 - The class is fun
-- It like the instructors
+- I like the instructors
 
 ## Welcome to GitHub Pages
 
